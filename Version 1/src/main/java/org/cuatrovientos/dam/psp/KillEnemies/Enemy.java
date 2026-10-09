@@ -6,6 +6,6 @@ public class Enemy implements Character {
 	}
 	
 	public void kill() {
-		System.out.print("Ahhhggg, me mataste, bastardo!");
+		System.out.println("Ahhhggg, me mataste, bastardo!");
 	}
 }
