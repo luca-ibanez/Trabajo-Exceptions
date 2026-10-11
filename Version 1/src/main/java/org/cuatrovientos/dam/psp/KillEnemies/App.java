@@ -12,7 +12,7 @@ public class App {
     		lista.add(amigo);
     		lista.add(enemigo);
     	}
-    	for (int i = 0; i < 10; i = i + 1) {
+    	for (int i = 0; i < lista.size(); i = i + 1) {
     		System.out.print("El personaje " + i + " es un ");
     		if (lista.get(i).getClass() == Friend.class) {
     			System.out.println("amigo!");
