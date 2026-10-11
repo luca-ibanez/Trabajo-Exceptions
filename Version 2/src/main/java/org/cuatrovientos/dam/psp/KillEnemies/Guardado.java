@@ -20,7 +20,7 @@ public class Guardado {
 		//Voy a ser sincero, no he llegado a entender como funciona guardar cosas y prefiero aceptarlo que copiar y pegar de ChatGPT sin entender el que estoy haciendo.
 		//En plan, he entendido algo sobre tener que guardar la clase en un archivo y demas. Pero por lo menos se me hace muy confuso el como.
 		//A si que si no he llegado a acabar esta parte, es por sinceramente rendirme y quedarme sin tiempo antes de la fecha de entrega y querer ver la solucion y aprender de hay o de los demas.
-		//Por lo menos he hecho todo lo demas excepto la forma de guardar datos, por lo que espero que eso si que valga algo, y lo siento por hacer esto.
+		//Por lo menos he hecho todo lo demas excepto la forma de guardar datos, por lo que espero que eso si que valga algo, y lo siento por hacer esto. Aunque admito que no estoy muy contento con dejarlo no completo al 100%
 	}
 
 	public Integer getEnemigosMatados() {
